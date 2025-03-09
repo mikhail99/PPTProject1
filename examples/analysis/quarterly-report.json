@@ -1,0 +1,171 @@
+{
+  "totalSlides": 8,
+  "slides": [
+    {
+      "number": 1,
+      "id": "256",
+      "rId": "rId2",
+      "elements": {
+        "text": {
+          "count": 3,
+          "samples": [
+            "Q4 2023 Business Report",
+            "Financial Performance &amp; Strategic Highlights",
+            "2/28/2025"
+          ]
+        },
+        "shapes": 4,
+        "pictures": 0,
+        "charts": 0,
+        "tables": 0
+      }
+    },
+    {
+      "number": 2,
+      "id": "257",
+      "rId": "rId3",
+      "elements": {
+        "text": {
+          "count": 6,
+          "samples": [
+            "Executive Summary",
+            "Record-breaking Q4 with $2.8M in revenue, up 28% YoY",
+            "Increased market share to 35%, solidifying our position as market leader",
+            "Launched 3 new product features driving 15% increase in user engagement",
+            "Expanded to 5 new international markets in APAC region"
+          ]
+        },
+        "shapes": 8,
+        "pictures": 1,
+        "charts": 0,
+        "tables": 0
+      }
+    },
+    {
+      "number": 3,
+      "id": "258",
+      "rId": "rId4",
+      "elements": {
+        "text": {
+          "count": 10,
+          "samples": [
+            "Quarterly Revenue Performance",
+            "Revenue by Quarter (in millions $)",
+            "Q1",
+            "1.2",
+            "Q2"
+          ]
+        },
+        "shapes": 14,
+        "pictures": 0,
+        "charts": 0,
+        "tables": 0
+      }
+    },
+    {
+      "number": 4,
+      "id": "259",
+      "rId": "rId5",
+      "elements": {
+        "text": {
+          "count": 7,
+          "samples": [
+            "Market Share Analysis",
+            "Current Market Distribution",
+            "Pie Chart Placeholder",
+            "Our Company: 35%",
+            "Competitor A: 28%"
+          ]
+        },
+        "shapes": 12,
+        "pictures": 0,
+        "charts": 0,
+        "tables": 0
+      }
+    },
+    {
+      "number": 5,
+      "id": "260",
+      "rId": "rId6",
+      "elements": {
+        "text": {
+          "count": 13,
+          "samples": [
+            "Key Performance Metrics",
+            "28%",
+            "Revenue Growth",
+            "Year-over-year increase",
+            "94%"
+          ]
+        },
+        "shapes": 23,
+        "pictures": 1,
+        "charts": 0,
+        "tables": 0
+      }
+    },
+    {
+      "number": 6,
+      "id": "261",
+      "rId": "rId7",
+      "elements": {
+        "text": {
+          "count": 31,
+          "samples": [
+            "Quarterly Comparison",
+            "Metrics",
+            "Q1 2023",
+            "Q2 2023",
+            "Q3 2023"
+          ]
+        },
+        "shapes": 61,
+        "pictures": 0,
+        "charts": 0,
+        "tables": 0
+      }
+    },
+    {
+      "number": 7,
+      "id": "262",
+      "rId": "rId8",
+      "elements": {
+        "text": {
+          "count": 5,
+          "samples": [
+            "Leadership Perspective",
+            "&quot;",
+            "Our exceptional Q4 results reflect the team&apos;s dedication and our strategic investments in product innovation. We&apos;re well-positioned for continued growth in 2024.",
+            "&quot;",
+            "— Jane Smith, CEO"
+          ]
+        },
+        "shapes": 7,
+        "pictures": 0,
+        "charts": 0,
+        "tables": 0
+      }
+    },
+    {
+      "number": 8,
+      "id": "263",
+      "rId": "rId9",
+      "elements": {
+        "text": {
+          "count": 6,
+          "samples": [
+            "Strategic Priorities for 2024",
+            "Expand enterprise client base by 40% through targeted sales initiatives",
+            "Launch next-generation platform with AI-powered features in Q2",
+            "Enter 3 new markets in EMEA region by Q3",
+            "Increase R&amp;D investment to $4.5M to accelerate product roadmap"
+          ]
+        },
+        "shapes": 8,
+        "pictures": 1,
+        "charts": 0,
+        "tables": 0
+      }
+    }
+  ]
+}

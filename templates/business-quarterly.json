@@ -1,0 +1,12 @@
+{
+  "id": "business-quarterly",
+  "name": "Business Quarterly Report",
+  "description": "A professional template for quarterly business reports with financial charts and KPIs",
+  "category": "business",
+  "thumbnail": "thumbnails/business-quarterly.png",
+  "file": "../examples/jsx/quarterly-report.jsx",
+  "tags": ["business", "financial", "report", "quarterly"],
+  "author": "PPT Generator Team",
+  "created": "2023-06-15",
+  "modified": "2023-09-22"
+} 

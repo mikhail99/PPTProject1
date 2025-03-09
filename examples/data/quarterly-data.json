@@ -1,0 +1,94 @@
+{
+  "title": "Q2 2023 Financial Report",
+  "subtitle": "Company Performance Overview",
+  "companyName": "Acme Corporation",
+  "period": "April - June 2023",
+  "preparedBy": "Finance Department",
+  "preparedDate": "July 15, 2023",
+  "financialData": {
+    "revenue": {
+      "q1": 1250000,
+      "q2": 1450000,
+      "q3": 1650000,
+      "q4": 1850000
+    },
+    "expenses": {
+      "q1": 950000,
+      "q2": 1050000,
+      "q3": 1150000,
+      "q4": 1250000
+    },
+    "profit": {
+      "q1": 300000,
+      "q2": 400000,
+      "q3": 500000,
+      "q4": 600000
+    }
+  },
+  "kpis": [
+    {
+      "name": "Revenue Growth",
+      "value": "16%",
+      "trend": "up",
+      "color": "#33CC33"
+    },
+    {
+      "name": "Profit Margin",
+      "value": "27.6%",
+      "trend": "up",
+      "color": "#0066CC"
+    },
+    {
+      "name": "Customer Acquisition",
+      "value": "1,250",
+      "trend": "up",
+      "color": "#FF9900"
+    },
+    {
+      "name": "Churn Rate",
+      "value": "3.2%",
+      "trend": "down",
+      "color": "#CC3333"
+    }
+  ],
+  "marketShare": [
+    {
+      "segment": "Product A",
+      "share": 42,
+      "color": "#0066CC"
+    },
+    {
+      "segment": "Product B",
+      "share": 28,
+      "color": "#33CC33"
+    },
+    {
+      "segment": "Product C",
+      "share": 18,
+      "color": "#FF9900"
+    },
+    {
+      "segment": "Others",
+      "share": 12,
+      "color": "#CCCCCC"
+    }
+  ],
+  "highlights": [
+    "Achieved record quarterly revenue of $1.45M",
+    "Expanded into 3 new markets",
+    "Launched 2 new product lines",
+    "Reduced operational costs by 8%",
+    "Increased customer satisfaction score to 4.8/5"
+  ],
+  "challenges": [
+    "Supply chain disruptions affecting product availability",
+    "Increased competition in key markets",
+    "Rising material costs impacting margins"
+  ],
+  "nextSteps": [
+    "Implement cost-saving measures in Q3",
+    "Accelerate digital transformation initiatives",
+    "Expand marketing efforts in high-growth regions",
+    "Develop strategic partnerships to address supply chain issues"
+  ]
+} 
