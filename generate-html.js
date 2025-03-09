@@ -5,7 +5,7 @@ require('@babel/register')({
   presets: ['@babel/preset-env', '@babel/preset-react']
 });
 
-const path = require('fs');
+const path = require('path');
 const fs = require('fs');
 const config = require('./config');
 
